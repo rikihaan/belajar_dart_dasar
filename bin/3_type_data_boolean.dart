@@ -11,5 +11,5 @@ void main() {
   print(finish);
 
   finish = true;
-  print(true);
+  print(finish);
 }

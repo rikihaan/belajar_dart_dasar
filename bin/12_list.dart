@@ -11,7 +11,7 @@ void main() {
   // List <TipeData> namaVariable =[];
   // Atau bisa dengan mrnggunakan kata kunci var atau final
   // var namaVariable =<TipeData>[];
-  // final vamaVariable - <TipeData>[];
+  // final vamaVariable = <TipeData>[];
 
   // create llst of int
   List<int> listInt = [];

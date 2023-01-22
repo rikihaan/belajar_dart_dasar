@@ -23,4 +23,18 @@ void main() {
     print('perulangan $counter');
     counter++;
   }
+
+  // perulangan dengan init statement
+
+  for (var i = 1; i <= 10;) {
+    print('perulangan ke $i');
+    i++;
+  }
+
+  // perulanga for dengan post statement
+  for (var k = 0; k <= 10; k++) {
+    print('perulangan post $k');
+  }
+
+  
 }

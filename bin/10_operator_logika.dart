@@ -10,7 +10,7 @@ void main() {
 
   /**OPERATOR && AND
    * adalah operator logika jika kedua data yang di bndingkan bernilai tru maka hasil nya true
-   * dan jika kedua data boolean yang di bandingkan, salahsatunya kiri atau kanan maka hasilnya akan tetap true
+   * dan jika kedua data boolean yang di bandingkan, salahsatunya kiri atau kanan flase maka hasilnya akan tetap false
    */
 
   /**

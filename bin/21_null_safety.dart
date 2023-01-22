@@ -41,7 +41,7 @@ void main() {
 
   /**
    * Default value
-   * Kadanf kita butuh melakukan konversi dari nullable ke nonNullable, namun jika datanya ternyata null, kita ganti dengan default valuenya
+   * Kadang kita butuh melakukan konversi dari nullable ke nonNullable, namun jika datanya ternyata null, kita ganti dengan default valuenya
    * Untuk melakukan hal tersebut, kita tidak perlu mengunakan if else atau ternary operator, cukup menggunkan operato ?? (tanda tanya 2 kali)
    */
 

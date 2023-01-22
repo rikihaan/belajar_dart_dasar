@@ -15,8 +15,8 @@ void main() {
   //     as String; // ini akan terjadi error karena type data variable adalah int dan kita paksa jadi string
 
   // conversi sukses
-  var typeDataInt = varible
-      as int; //karena nilai yang akan di conversi sama dengn nilai variable nya
+  var typeDataInt = varible as int;
+  //karena nilai yang akan di conversi sama dengn nilai variable nya
   print(typeDataInt);
 
   // mengunakan operator (is) untuk mengecek tipe data
@@ -24,7 +24,6 @@ void main() {
   print(isInt); // true (sesuai dengan yang ditanyakan)
 
   // mengunakan operator is! (true jika ojek tidak sesuai dengan apa yang di tanyakan)
-
   var isBoolean = varible is! bool;
   //true (apakan variable bukan type data boolean = true karena variable typeta int)
   print(isBoolean);

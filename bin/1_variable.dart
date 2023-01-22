@@ -41,13 +41,13 @@ void main() {
   //fullName = "Ahmad Suherman";//error can't assign to the final variable
   // print(fullName);/
 
-  //conts agar variable dan valuenya tidak bisa di ubah, dan nilai nya akan di hardcode saat terjadi compilasi(tidak akan berubah)
+  //conts,agar variable dan valuenya tidak bisa di ubah, dan nilai nya akan di hardcode saat terjadi compilasi(tidak akan berubah)
 
   final array1 = [1, 2, 3];
   const array2 = [1, 2, 3];
 
   array1[0] = 5;
-  // arrar2[0]=5;
+  // arrar2[0]=5; erro value tidak bisa di lubah lagi karena menggunakasn kata kunci const
 
   print(array1);
   print(array2);

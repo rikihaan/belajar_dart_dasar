@@ -22,7 +22,7 @@ void main() {
   /**
    * Conversi Boolean dan string
    * untuk melakukan konveersi tipe data boolean ke string,kita bisa gunakan method toString()
-   * sedangkan untuk melakukan konversi type data ke string ke boolean, tidak ada caranya oleh karenena itu
+   * sedangkan untuk melakukan konversi type data ke string boolean, tidak ada caranya oleh karenena itu
    */
 
   var dataString = 'true';

@@ -5,7 +5,7 @@ void main() {
    */
 
   // kode ternay operator
-  var nilai = 71;
+  var nilai = 70;
   String ucapan;
 
   // tanpa ternary operator
